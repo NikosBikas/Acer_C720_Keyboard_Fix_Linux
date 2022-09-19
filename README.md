@@ -9,6 +9,6 @@ cd ~/Downloads; sudo apt-get -y install curl; curl -LOk https://github.com/Thril
 Acer_C720_Keyboard_Fix_Linux; sudo -E bash C720_Keyboard_Fix.sh
 
 For Arch or Arch based distros(Manjaro,etc...):
-cd ~/Downloads; sudo apt-get -y install curl; curl -LOk https://github.com/ThrillSeeker01/Acer_C720_Keyboard_Fix_Linux/archive/master.tar.gz; tar -zxvf master.tar.gz; cd 
+cd ~/Downloads; curl -LOk https://github.com/ThrillSeeker01/Acer_C720_Keyboard_Fix_Linux/archive/master.tar.gz; tar -zxvf master.tar.gz; cd 
 Acer_C720_Keyboard_Fix_Linux; sudo -E bash C720_Keyboard_Fix.sh
 
